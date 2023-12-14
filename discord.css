@@ -1,0 +1,8 @@
+body div.form discord {
+    background-color: #2b2d31;
+    border-width: 3px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #2b2d31;
+    -webkit-text-fill-color: #ffffff;
+}
